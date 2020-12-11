@@ -1,8 +1,30 @@
 Thinking about a few of my favorite things that help me not feel so bad...
-1. Faith
-  * Catholicism
-2. Family
-3. Video Games
+<details>
+<summary>Faith</summary>
+
+   * Catholicism
+    - Extraordinary Lay Ministry for Eucharist & Liturgy
+    - Catechesis (K-12)
+    - Knights of Columbus
+    - Paradisus Dei
+
+</details>
+<summary>Family</summary>
+
+    * Married Life (25+ years)
+    * Fatherhood (2 children, 2 dogs)
+    * Son, Grandson, Brother, Uncle, Cousin
+    * Activities:
+        - Camping
+        - Gaming (boardgames, videogames)
+        - Movie watching
+        - Cooking
+
+</details>
+
+<details>
+<summary>Video Games</summary>
+
   - XBox
     * The Division
     * Call of Duty
@@ -10,7 +32,12 @@ Thinking about a few of my favorite things that help me not feel so bad...
   - PC
     * Civilization
   - Occasionally mobile w/ xCloud
-4. Education
+
+</details>
+
+<details>
+<summary>Education</summary>
+
   * Higher Education
     * Discipline-based research
     * Teacher training
@@ -18,9 +45,16 @@ Thinking about a few of my favorite things that help me not feel so bad...
   * Secondary Education
     * Chemistry
     * Mathematics
-5. Science
+
+</details>
+
+<details>
+<summary>Science</summary>
+
   - Chemistry
     * Physical
     * Computational
   - Materials Science
   - Computing
+
+</details>
